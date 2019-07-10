@@ -8,7 +8,7 @@
 
 ``` bash
 # 克隆项目
-git clone https://github.com/sailengsi/sls-vuex2-demo.git
+git clone https://github.com/Lgaoli/vuex-shop.git
 
 # 安装依赖
 npm install
